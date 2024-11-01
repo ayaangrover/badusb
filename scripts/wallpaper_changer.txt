@@ -1,0 +1,16 @@
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 500
+LOOP 5
+  STRING (New-Object -ComObject WScript.Shell).RegWrite('HKEY_CURRENT_USER\\Control Panel\\Desktop\\Wallpaper', 'C:\\Windows\\System32\\oobe\\info\\backgrounds\\background1024x768.jpg')
+  ENTER
+  DELAY 2000
+  STRING rundll32.exe user32.dll,UpdatePerUserSystemParameters
+  ENTER
+  DELAY 3000
+  STRING (New-Object -ComObject WScript.Shell).RegWrite('HKEY_CURRENT_USER\\Control Panel\\Desktop\\Wallpaper', 'C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg')
+  ENTER
+  DELAY 3000

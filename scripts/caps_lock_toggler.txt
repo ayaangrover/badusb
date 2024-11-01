@@ -1,0 +1,8 @@
+DELAY 500
+LOOP 30
+  STRING You've been hacked! *laughs evilly*
+  ENTER
+  CAPSLOCK
+  DELAY 300
+  CAPSLOCK
+  DELAY 300

@@ -1,0 +1,19 @@
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 1500
+LOOP 10
+  STRING how to sing nursery rhymes
+  ENTER
+  DELAY 1000
+  STRING i lost my pillow
+  ENTER
+  DELAY 1000
+  STRING help i've been hacked
+  ENTER
+  DELAY 1000
+  STRING why is my computer acting weird
+  ENTER
+  DELAY 1000
