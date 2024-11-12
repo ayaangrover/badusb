@@ -5,7 +5,30 @@ DELAY 500
 STRING powershell
 ENTER
 DELAY 500
-LOOP 5
-  STRING (New-Object -COM WScript.Shell).SendKeys('{VK_MEDIA_NEXT_TRACK}')
-  ENTER
-  DELAY 1000
+STRING (New-Object -COM WScript.Shell).SendKeys('{VK_MEDIA_NEXT_TRACK}')
+ENTER
+DELAY 1000
+
+STRING (New-Object -COM WScript.Shell).SendKeys('{VK_MEDIA_NEXT_TRACK}')
+ENTER
+DELAY 1000
+
+STRING (New-Object -COM WScript.Shell).SendKeys('{VK_MEDIA_NEXT_TRACK}')
+ENTER
+DELAY 1000
+
+STRING (New-Object -COM WScript.Shell).SendKeys('{VK_MEDIA_NEXT_TRACK}')
+ENTER
+DELAY 1000
+
+STRING (New-Object -COM WScript.Shell).SendKeys('{VK_MEDIA_NEXT_TRACK}')
+ENTER
+DELAY 1000
+
+STRING (New-Object -COM WScript.Shell).SendKeys('{VK_MEDIA_NEXT_TRACK}')
+ENTER
+DELAY 1000
+
+STRING (New-Object -COM WScript.Shell).SendKeys('{VK_MEDIA_NEXT_TRACK}')
+ENTER
+DELAY 1000

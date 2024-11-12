@@ -1,5 +1,0 @@
-DELAY 500
-LOOP 30
-  STRING asdfghjklqwertyuiopzxcvbnm
-  ENTER
-  DELAY 200

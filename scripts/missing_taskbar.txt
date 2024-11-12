@@ -6,6 +6,6 @@ ENTER
 DELAY 500
 STRING Get-Process explorer | Stop-Process
 ENTER
-DELAY 3000
+DELAY 300000
 STRING Start-Process explorer.exe
 ENTER

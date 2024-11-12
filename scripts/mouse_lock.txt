@@ -1,8 +1,8 @@
 DELAY 500
 GUI r
-DELAY 500
+DELAY 1000
 STRING powershell
 ENTER
-DELAY 500
+DELAY 1000
 STRING [reflection.assembly]::loadwithpartialname('System.Windows.Forms'); Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.Cursor]::Position = '0,0'
 ENTER

@@ -1,0 +1,164 @@
+DELAY 1000
+REM Open Run dialog and set volume to maximum using PowerShell
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell -c "(new-object -com wscript.shell).SendKeys([char]175)"
+ENTER
+DELAY 500
+
+REM Beep sound every minute
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING powershell -c "[console]::beep(1000,1000)"
+ENTER
+DELAY 60000

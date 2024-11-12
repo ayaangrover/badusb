@@ -1,6 +1,277 @@
 DELAY 500
-LOOP 10
-  GUI r
-  STRING https://www.google.com
-  ENTER
-  DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
+GUI r
+STRING https://www.google.com
+ENTER
+DELAY 300
+
